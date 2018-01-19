@@ -1,0 +1,69 @@
+/*
+Name: Mayank Kathuria
+Student Number: 1534791
+The CSS styles shared by all pages
+*/
+body{
+	font-family: Verdana sans-serif;
+	font-style: italic;
+}
+
+#frame{
+	background-color: black;
+}
+
+#main{
+	background-color: white;
+}
+
+#banner, #w3c{
+	background-image:url("https://webster.cs.washington.edu/images/kevinbacon/banner-background.png");
+	color: white;
+	height : 50px;
+}
+
+form{
+	width: 24em;
+}
+
+fieldset, #frame{
+	margin : 1em;
+}
+
+fieldset legend {
+	text-align:left;
+}
+
+
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+body, tr:nth-child(even) {
+	background-color:  #dad9d4;;
+}
+
+#frame, table{
+	width: 90%;
+}
+
+#frame, #main, #banner, #w3c{
+	border-radius : 10pt;
+	box-shadow: 5px 5px 5px #b00000;
+}
+
+#main, h1, td, th{
+	text-align: center;
+}
+
+#main, form, table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main, #banner, #w3c, #frame, fieldset, td ,th{
+	padding: 1em;
+}
+
