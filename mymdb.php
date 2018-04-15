@@ -1,6 +1,5 @@
-<!--Name: Mayank Kathuria
-Student Number: 1534791
-The program displays the initial front page that welcomes the user to the site-->
+
+<!--The program displays the initial front page that welcomes the user to the site-->
 <?php include("common.php");
  topContent();?>
 
