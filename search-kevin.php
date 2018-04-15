@@ -1,5 +1,4 @@
-<!--Name: Mayank Kathuria
-Student Number: 1534791
+<!--
 The page shows search results for all films with the given actor and Kevin Bacon-->
 <?php 
 	//gets the first name of the actor provided by the user
