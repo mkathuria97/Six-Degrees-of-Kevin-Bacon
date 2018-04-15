@@ -1,6 +1,5 @@
-<!--Name: Mayank Kathuria
-Student Number: 1534791
-The page shows search results for all films by a given actor-->
+
+<!-- The page shows search results for all films by a given actor-->
 <?php 
 	//gets the first name of the actor provided by the user
 	$firstname = $_GET["firstname"];
